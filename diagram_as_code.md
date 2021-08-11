@@ -69,12 +69,17 @@ Key Take-away from this code:
 
 Kindly execute the file with the below mentioned commands to generate and list the diagram.
 
-<script src="https://gist.github.com/SanthoshNC/527fdc36281926720e404407ec484c50.js"></script>
+```shell
+python3 3_custom_diagram.py # To run the file to generate diagram
+ls -lrt # To check the files. A file called custom_diagram.jpg will be generated in the directory
+```
 
 ### Step 3 : View the file using an image viewer
 
 Kindly execute the below command to view the generated image from the terminal.
 
-<script src="https://gist.github.com/SanthoshNC/c8615f6ba44843df690e1ecc9babb2ca.js"></script>
+```shell
+xdg-open custom_diagram.jpg # Opens the generated diagram in default image viewver.
+```
 
 ![custom_diagram.jpg](custom_diagram.jpg "custom_diagram.jpg")
