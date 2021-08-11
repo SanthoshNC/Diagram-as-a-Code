@@ -14,7 +14,7 @@ The files and artifacts are present in this [GitHub Repo](https://github.com/San
 
 Kindly create a file with using any of the file editor (say vi, nano gedit, etc.,) and enter the below contents and save the file with a name (In our case, its **3_custom_diagram.py**)
 
-<script src="https://gist.github.com/SanthoshNC/3da71b5ba53f102996b131d63fd2cbdf"></script>
+<script src="https://gist.github.com/SanthoshNC/3da71b5ba53f102996b131d63fd2cbdf.js"></script>
 
 Key Take-away from this code:
 
@@ -27,12 +27,12 @@ Key Take-away from this code:
 
 Kindly execute the file with the below mentioned commands to generate and list the diagram.
 
-<script src="https://gist.github.com/SanthoshNC/527fdc36281926720e404407ec484c50"></script>
+<script src="https://gist.github.com/SanthoshNC/527fdc36281926720e404407ec484c50.js"></script>
 
 ### Step 3 : View the file using an image viewer
 
 Kindly execute the below command to view the generated image from the terminal.
 
-<script src="https://gist.github.com/SanthoshNC/c8615f6ba44843df690e1ecc9babb2ca"></script>
+<script src="https://gist.github.com/SanthoshNC/c8615f6ba44843df690e1ecc9babb2ca.js"></script>
 
 ![custom_diagram.jpg](custom_diagram.jpg "custom_diagram.jpg")
