@@ -14,7 +14,7 @@ The files and artifacts are present in this [GitHub Repo](https://github.com/San
 
 Kindly create a file with using any of the file editor (say vi, nano gedit, etc.,) and enter the below contents and save the file with a name (In our case, its **3_custom_diagram.py**)
 
- {{ gist "3da71b5ba53f102996b131d63fd2cbdf" }}
+<script src="https://gist.github.com/SanthoshNC/3da71b5ba53f102996b131d63fd2cbdf.js?file=3_custom_diagram.py"></script>
 
 Key Take-away from this code:
 
